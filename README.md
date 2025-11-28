@@ -10,8 +10,7 @@
 - [Tools](#-tools)  
 - [Key Findings](#-key-findings)  
 - [Python Code Snippets](#-python-code-snippets)  
-- [Conclusion](#-conclusion)  
-- [Note](#-note)  
+- [Conclusion](#-conclusion)    
 
 ---
 
